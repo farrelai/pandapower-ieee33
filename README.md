@@ -4,8 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Pandapower](https://img.shields.io/badge/Pandapower-Electric%20Grid%20Analysis-orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
-![Course](https://img.shields.io/badge/Course-Computer%20Programming-success)
-![Institution](https://img.shields.io/badge/UGM-Electrical%20Engineering%20Technology-yellow)
 
 This repository contains a load flow analysis and distribution network reconfiguration simulation of the standard **IEEE 33-Bus** test system, incorporating additional tie-lines using the Python library **Pandapower**. This project was developed as the final project report for the **Computer Programming** course in the Applied Bachelor's Degree Program in Electrical Engineering Technology (TRE), Vocational College, Universitas Gadjah Mada.
 
