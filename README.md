@@ -34,7 +34,7 @@ Under the initial operating condition (radial configuration without additional t
 
 By adding tie-lines between **Bus 2 and Bus 15**, and **Bus 19 and Bus 29**, power can flow through alternative paths, significantly reducing the equivalent impedance supplying heavily loaded buses.
 
-![SLD After Optimization](assets/images/sld-setelah-optimasi.jpg)
+![SLD After Optimization](assets/images/sld-sesudah-optimasi.jpg)
 
 ---
 
